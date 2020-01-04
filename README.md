@@ -10,5 +10,5 @@ Go to the directory of `.jar` file in the command line and type:
 
 # Todos
 
-[ ] Add class diagram photo
-[ ] Add screenshots of working demo
+- [ ] Add class diagram photo
+- [ ] Add screenshots of working demo
