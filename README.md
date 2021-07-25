@@ -12,3 +12,4 @@ Go to the directory of `.jar` file in the command line and type:
 
 - [ ] Add class diagram photo
 - [ ] Add screenshots of working demo
+updated by ramannuj
